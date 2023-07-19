@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Food Yard
+
+E-commerce templete: simple, clean  and aplicable sales for green food,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
