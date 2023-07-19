@@ -1,5 +1,5 @@
-# greensale
-GREENLIVES eco store: simple, clean  and aplicable sales for green entrepreneurs, artisans 
+# Food Yard
+E-commerce templete: simple, clean  and aplicable sales for green food,
 
 # Dev Stack 
 
